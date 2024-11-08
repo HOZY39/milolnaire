@@ -53,8 +53,9 @@ Before you start, make sure you have the following installed:
     pip install -r requirements.txt
     ```
 4. **Database**:
-   Sadly, You must menage database on your own.
-5. **Run the development server**:
+
+   Sadly, You must manage database on your own.
+6. **Run the development server**:
    ```
     python manage.py runserver
     ```
