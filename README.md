@@ -63,3 +63,53 @@ Now, you can access the application at http://localhost:8000.
 ## Hosting and Deployment
 
 The application was hosted on Google Cloud Platform (GCP), but may not be live anymore.
+
+
+<table>
+  <tr>
+    <td>
+      <a href="img_readme/1.png">
+        <img src="img_readme/1.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="img_readme/2.png">
+        <img src="img_readme/2.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="img_readme/3.png">
+        <img src="img_readme/3.png" width="300px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="img_readme/4.png">
+        <img src="img_readme/4.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="img_readme/5.png">
+        <img src="img_readme/5.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="img_readme/6.png">
+        <img src="img_readme/6.png" width="300px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="img_readme/7.png">
+        <img src="img_readme/7.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="img_readme/8.png">
+        <img src="img_readme/8.png" width="300px" />
+      </a>
+    </td>
+  </tr>
+</table>
